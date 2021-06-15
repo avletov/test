@@ -31,7 +31,7 @@ export default function App() {
 
   return (
     <Container>
-      <Logo src={'../img/StandardBit500Logo.svg'} />
+      <Logo src={'./img/StandardBit500Logo.svg'} />
       <SumList
         userData={userData}
         coinList={coinList}
